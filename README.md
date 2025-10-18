@@ -70,4 +70,5 @@ Olist E-Commerce-Analysis
 
 ## 📊 Dashboard Preview
 
-![Olist Store Dashboard](05_Datafolio_and_ Dashboard/dashboard_preview.png)
+![Olist Store Dashboard](05_Datafolio_and_dashboard/dashboard_preview.png)
+
