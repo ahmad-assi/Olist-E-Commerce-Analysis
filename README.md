@@ -1,4 +1,4 @@
-# Olist Store Data Analysis
+# Olist Store Analysis
 
 Comprehensive analysis of Olist Store data to understand customer behavior, quality of shopping experience, and the impact of shipping delays on ratings.
 ---
