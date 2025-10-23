@@ -4,20 +4,20 @@ Comprehensive analysis of Olist Store data to understand customer behavior, qual
 ---
 
 ## Project Objective
-Analyzing Olist store data to extract insights into: - The relationship between delivery delays and negative reviews. - The performance of different product categories. - Sales patterns and key performance indicators (KPIs).
+Analyzing Olist store data to extract insights into: customer distribution - The performance of different product categories. - The relationship between delivery delays and negative reviews. - Sales patterns and key performance indicators (KPIs).
 ---
 ## 📂 Project Reports
 
-- **🔹 Scoping & Objectives:** [Download](01_description_scoping/Project_Description_and_Scoping.pdf)
-- **🔹 Data Curation:** [Download](02_data_curation/Project_Data_Curation.pdf)
-- **🔹 Exploratory Analysis:** [Download](03_exploratory_analysis/Project_EDA.pdf)
-- **🔹 Final Report (Summary):** [View Key Findings](04_final_report/Final_Report.pdf)
+- **🔹 Scoping & Objectives: Define project goals, key questions, and scope of analysis.** [Download](01_description_scoping/Project_Description_and_Scoping.pdf)
+- **🔹 Data Curation: Cleaning the data, removing duplicates, standardizing formats, and ensuring data quality.** [Download](02_data_curation/Project_Data_Curation.pdf)
+- **🔹 Exploratory Analysis: Analyzing customer distribution, product categories, and key performance indicators (KPIs).** [Download](03_exploratory_analysis/Project_EDA.pdf)
+- **🔹 Final Report (Summary): Comprehensive analysis covering customer behavior, product performance, sales patterns, delivery delays, and key insights derived from the project.** [View Key Findings](04_final_report/Final_Report.pdf)
   
-- **🔹 📊 🔗 Data Folio :[Download](05_Datafolio_and_Dashboard/Datafolio_Dashboard.pdf) ** 
+- **🔹 📊 🔗 Data Folio:[Download](05_Datafolio_and_Dashboard/Datafolio_Dashboard.pdf)
 
 ![Olist Store Data folio](05_Datafolio_and_Dashboard/datafolio_preview.png)  
 
-- **🔹 📊 🔗 Dashboard:** [View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/ahmad.assi4356/viz/OlistStoreAnalysis_17406813669460/OlistStoreDashboard)
+- **🔹 📊 🔗 Dashboard: [View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/ahmad.assi4356/viz/OlistStoreAnalysis_17406813669460/OlistStoreDashboard)
 
 ![Olist Store Dashboard](05_Datafolio_and_Dashboard/dashboard_preview.png)
 
