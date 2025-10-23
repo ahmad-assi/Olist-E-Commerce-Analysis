@@ -63,9 +63,9 @@ Olist E-Commerce-Analysis
 └── 
 
 ## Tools Used
-- Excel
-- SQL
-- Tableau
+- Excel for data cleaning and preprocessing
+- SQL for data extraction and analysis
+- Tableau for data visualization
 ---
 
 ## 📊 Dashboard Preview
