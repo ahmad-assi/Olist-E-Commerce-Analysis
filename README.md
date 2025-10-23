@@ -13,7 +13,7 @@ Analyzing Olist store data to extract insights into: - The relationship between 
 - **🔹 Exploratory Analysis:** [Download](03_exploratory_analysis/Project_EDA.pdf)
 - **🔹 Final Report (Summary):** [View Key Findings](04_final_report/Final_Report.pdf)
   
-- **🔹 📊 🔗 Data Folio :[Download](05_Datafolio_and_Dashboard/Datafolio_and_Dashboard.pdf) ** 
+- **🔹 📊 🔗 Data Folio :[Download](05_Datafolio_and_Dashboard/Datafolio_Dashboard.pdf) ** 
 
 ![Olist Store Data folio](05_Datafolio_and_Dashboard/datafolio_preview.png)  
 
