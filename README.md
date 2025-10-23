@@ -68,7 +68,7 @@ Olist E-Commerce-Analysis
 - Tableau for data visualization
 ---
 
-## 📊 🔗 🔗 [View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/ahmad.assi4356/viz/shared/43R7KMQKF)
+## 📊 🔗 🔗 [View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/ahmad.assi4356/viz/OlistStoreAnalysis_17406813669460/OlistStoreDashboard)
 
 
 ![Olist Store Dashboard](05_Datafolio_and_Dashboard/dashboard_preview.png)
