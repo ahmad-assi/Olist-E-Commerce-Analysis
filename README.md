@@ -8,10 +8,12 @@ Analyzing Olist store data to extract insights into: - The relationship between 
 ---
 ## 📂 Project Reports
 
-- **🔹 Scoping & Objectives:** [Download](01_description_scoping/Portfolio  - Project Description & Scoping.pdf)
+- **🔹 Scoping & Objectives:** [Download](01_description_scoping/Project_Description_and_Scoping.pdf)
 - **🔹 Data Curation:** [Download](02_data_curation/Project - Data Curation.pdf)
 - **🔹 Exploratory Analysis:** [Download](03_exploratory_analysis/Project EDA.pdf)
 - **🔹 Final Report (Summary):** [View Key Findings](04_final_report/Project - Final Report.pdf)
+  
+- **🔹 📊 🔗 Data Folio :[Download](05_Datafolio_and_Dashboard/Project Datafolio & Dashboard.pdf) ** 
 
 ![Olist Store Data folio](05_Datafolio_and_Dashboard/datafolio_preview.png)  
 
