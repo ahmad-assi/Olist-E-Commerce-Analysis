@@ -61,14 +61,18 @@ Olist E-Commerce-Analysis
 |       ├──   olist_sellers_dataset.csv
 |       ├──   product_category_name_translation.csv
 └── 
+## 📂 Project Reports
+
+- **🔹 Scoping & Objectives:** [Download](01_description_scoping/Portfolio  - Project Description & Scoping.pdf)
+- **🔹 Data Curation:** [Download](02_data_curation/Project - Data Curation.pdf)
+- **🔹 Exploratory Analysis:** [Download](03_exploratory_analysis/Project EDA.pdf)
+- **🔹 Final Report (Summary):** [View Key Findings](04_final_report/Project - Final Report.pdf)
+- **🔹## 📊 🔗 Dashboard:** [View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/ahmad.assi4356/viz/OlistStoreAnalysis_17406813669460/OlistStoreDashboard)
 
 ## Tools Used
 - Excel for data cleaning and preprocessing
 - SQL for data extraction and analysis
 - Tableau for data visualization
 ---
-
-## 📊 🔗 🔗 [View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/ahmad.assi4356/viz/OlistStoreAnalysis_17406813669460/OlistStoreDashboard)
-
 
 ![Olist Store Dashboard](05_Datafolio_and_Dashboard/dashboard_preview.png)
